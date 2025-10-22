@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/66/pinkiesout.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

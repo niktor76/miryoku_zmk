@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/70/zodiark.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

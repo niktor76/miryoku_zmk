@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/46/dactyl_manuform_4x5.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

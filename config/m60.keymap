@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/61/60_ansi.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

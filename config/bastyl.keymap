@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/58/bastyl.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};
