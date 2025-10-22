@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/58/leeloo.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

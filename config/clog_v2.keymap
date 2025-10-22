@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/36/clog_v2.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

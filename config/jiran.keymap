@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/56/jiran.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};

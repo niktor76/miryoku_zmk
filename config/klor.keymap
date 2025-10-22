@@ -4,3 +4,6 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/44/klor.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+};
